@@ -10,7 +10,7 @@ const experiences = [
     company: "NTT Data",
     period: "May 2026 – Present",
     bullets: [
-      "Supporting two large-scale government IT projects across healthcare and defence domains.",
+      "Supporting large-scale government IT projects across healthcare and defence domains.",
       "Analysing tender documents to support user story refinement, UoW estimation, and backlog grooming in Agile delivery.",
       "Facilitating requirements workshops and coordinating UAT activities across clinical, technical, and PM teams.",
     ],

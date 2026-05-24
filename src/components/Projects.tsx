@@ -26,6 +26,7 @@ const projects = [
     tech: ["Kubernetes", "Azure AKS", "AWS", "Terraform", "Docker", "Chaos Engineering"],
     award: true,
     period: "Jan – May 2026",
+    github: "https://github.com/akashb2004-png/IS214ESM_M3",
   },
   {
     index: "03",
@@ -97,7 +98,7 @@ export default function Projects() {
                   style={{ borderBottom: "var(--border)", background: p.award ? "var(--accent)" : "var(--fg)" }}
                 >
                   <span className="text-xs font-bold tracking-widest uppercase" style={{ color: p.award ? "var(--fg)" : "white" }}>
-                    {p.award ? "★ Award Nominee" : p.period}
+                    {p.award ? "★ Award Nominee" : "SMU Project"}
                   </span>
                   <span className="font-bold text-lg" style={{ color: p.award ? "var(--fg)" : "rgba(255,255,255,0.3)" }}>
                     {p.index}
@@ -136,7 +137,7 @@ export default function Projects() {
                   style={{ borderTop: "var(--border)" }}
                 >
                   <span className="text-xs font-bold font-mono" style={{ color: "var(--muted)" }}>
-                    {p.award ? p.period : "SMU Project"}
+                    {p.period}
                   </span>
                   {p.github ? (
                     <a
