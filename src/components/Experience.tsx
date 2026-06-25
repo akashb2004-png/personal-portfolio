@@ -10,9 +10,10 @@ const experiences = [
     company: "NTT Data",
     period: "May 2026 – Present",
     bullets: [
-      "Supporting large-scale government IT projects across healthcare and defence domains.",
-      "Analysing tender documents to support user story refinement, UoW estimation, and backlog grooming in Agile delivery.",
-      "Facilitating requirements workshops and coordinating UAT activities across clinical, technical, and PM teams.",
+      "Spearheaded comprehensive requirements engineering sessions for large-scale enterprise systems, working closely with technical stakeholders to map out integration touchpoints, API structures, and data workflows while building strong client relationships.",
+      "Designed and implemented an AI-powered rapid prototyping process to develop and launch a fully functional Next.js web application on Vercel, completing the entire delivery within a 24-hour window.",
+      "Streamlined product validation processes by pioneering a fast-paced, locally driven prototyping approach that removed conventional delivery barriers and achieved swift alignment with client expectations.",
+      "Led presales activities and requirements scoping, converting complex client objectives into well-defined project specifications and rapid demonstrations to drive business development and secure new opportunities.",
     ],
   },
   {

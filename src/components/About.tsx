@@ -19,6 +19,7 @@ export function SectionLabel({ children }: { children: React.ReactNode }) {
 
 const achievements = [
   { label: "Dean's List AY25/26", sub: "Academic Excellence" },
+  { label: "Khoo Teck Chuan Award", sub: "AY 25/26 · Singapore Management University" },
   { label: "Dell Cloud Native Award Finalist", sub: "×2 · IS213 & IS214" },
 ];
 
